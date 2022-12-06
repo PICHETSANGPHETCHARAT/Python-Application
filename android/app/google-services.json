@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15639496941",
+    "firebase_url": "https://pythonapp-dd681-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pythonapp-dd681",
+    "storage_bucket": "pythonapp-dd681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15639496941:android:8b533670b0cf2509ec24e4",
+        "android_client_info": {
+          "package_name": "com.pichet.pythonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15639496941-n0fl9rir2bafmd1qei9anlvq9dmv7pia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pichet.pythonapp",
+            "certificate_hash": "46dd9f7bc7a129bec6179a309bbf36acaf62577c"
+          }
+        },
+        {
+          "client_id": "15639496941-nfuvlj60j4veqfjs23ntpgaskhbhuag5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFA6oNLj3Kg_SDNp1elisJIDt2VXwTsyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15639496941-nfuvlj60j4veqfjs23ntpgaskhbhuag5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

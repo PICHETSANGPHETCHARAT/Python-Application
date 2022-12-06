@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>15639496941-qh43ghpjgjsd78gs2f5bloq0nn64q51l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.15639496941-qh43ghpjgjsd78gs2f5bloq0nn64q51l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>15639496941-n0fl9rir2bafmd1qei9anlvq9dmv7pia.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCovWHb4uJcE4QI8e1joe0pmUNIeXTOev0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>15639496941</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pichet.pythonapp</string>
+	<key>PROJECT_ID</key>
+	<string>pythonapp-dd681</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pythonapp-dd681.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:15639496941:ios:2842151d094bfcbfec24e4</string>
+	<key>DATABASE_URL</key>
+	<string>https://pythonapp-dd681-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
